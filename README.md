@@ -1,8 +1,8 @@
 # Verkefni 10, Vefforritun 1.
 Nota Create React App með React.
+Nota Canvas og Sprite til ad sja character hlaupa i stad.
 
-
-# Getting Started with Create React App
+# Getting Started with Cseate React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
