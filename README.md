@@ -1,6 +1,8 @@
 # Verkefni 10, Vefforritun 1.
 Nota Create React App með React.
 Nota Canvas og Sprite til ad sja character hlaupa i stad.
+Nota sass fyrir css uppfaerslu og adgreiningu.
+Nota stylelint til ad laga utlitssvillur koda.
 
 # Getting Started with Cseate React App
 
